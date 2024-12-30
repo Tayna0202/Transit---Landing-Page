@@ -13,5 +13,6 @@
     <img src="https://skillicons.dev/icons?i=js" />
 </div>
 
-<img src="">
+<img src="/Landing Page 01.png">
+<img src="/Landing Page 02.png">
 
